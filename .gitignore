@@ -2,3 +2,4 @@
 node_modules/
 *.vsix
 .env
+crimson-moon-0.0.1.vsix
