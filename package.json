@@ -23,5 +23,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/0california0/crimson-moon.git"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
   }
 }
