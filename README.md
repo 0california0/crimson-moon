@@ -1,6 +1,6 @@
 # Crimson Moon
 
-A dark VS Code theme with a consistent red and dark-red color scheme on a pure black background.
+A dark VS Code theme with a red and dark red color scheme on a pure black background.
 
 ## Installation
 
